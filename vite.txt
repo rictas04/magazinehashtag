@@ -1,0 +1,54 @@
+VITE v4.4.9  ready in 225 ms (Executar todo dia)
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h to show help
+
+Dia 01 --> JS2023
+Dia 02 --> CSS2908
+Dia 03 --> MAGAZINEHASH
+Dia 04 --> INTENSIVOJS15
+Dia 05 --> GITHUB10
+
+----------------------------------
+
+PS D:\OneDrive\Hashtag Treinamentos> cd ".\Magazine Hashtag\"
+PS D:\OneDrive\Hashtag Treinamentos\Magazine Hashtag> npm run dev        
+
+> magazine-hashtag@0.0.0 dev
+> vite
+
+
+  VITE v4.4.9  ready in 342 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h to show help
+PS D:\OneDrive\Hashtag Treinamentos\Magazine Hashtag> npm run dev
+
+> magazine-hashtag@0.0.0 dev
+> vite
+
+
+  VITE v4.4.9  ready in 225 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h to show help
+19:47:44 [vite] page reload main.js
+
+added 87 packages, changed 1 package, and audited 96 packages in 9s
+
+20 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+PS D:\OneDrive\Hashtag Treinamentos\Magazine Hashtag> npm install -D tailwindcss postcss autoprefixer
+
+up to date, audited 96 packages in 765ms
+
+20 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+PS D:\OneDrive\Hashtag Treinamentos\Magazine Hashtag> 
